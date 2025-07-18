@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/java_bank_db"; 
         String user = "root";
-        String password = "Neekhilchourey@123";
+        String password = "0000";
 
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
